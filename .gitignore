@@ -1,0 +1,6 @@
+.idea/
+*.iml
+*/*.iml
+reasoner_tutorial/*.iml
+
+reasoner_tutorial/target
